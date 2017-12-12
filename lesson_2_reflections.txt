@@ -1,0 +1,4 @@
+1.What happens when you initialize a repository? Why do you need to do it?
+git create special folder ".git". we need it to help git track your commits
+2.How is the staging area different from the working directory and the repository? What value do you think it offers?
+stagind area is a place that represent files that was "added" through git. It helps to commit files that you want
