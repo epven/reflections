@@ -13,3 +13,5 @@ logicaly connected file usually changes when one of the changes so it is easy to
 git log shows the commits id, name, message and git diff uses two ids of the commits to show what was changed in files
 6.How might using version control make you more confident to make changes that could break something?
 you can easily get back to previous version
+7.Now that you have your workspace set up, what do you want to try using Git for?
+for my projects, notes e.c
