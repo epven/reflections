@@ -2,3 +2,13 @@
 git create special folder ".git". we need it to help git track your commits
 2.How is the staging area different from the working directory and the repository? What value do you think it offers?
 stagind area is a place that represent files that was "added" through git. It helps to commit files that you want
+3.What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when we want to try out new feature. Easy to work with
+4.How do the diagrams help you visualize the branch structure?
+it's show graph where you can easily see reachebility of vertices
+5.What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros automatic:
+easy
+fast
+cons:
+not always working
